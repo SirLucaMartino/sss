@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(20, 20) scale(0.87)">
+    <path d="M150 0C67.157 0 0 67.157 0 150s67.157 150 150 150 150-67.157 150-150S232.843 0 150 0zm0 20c71.797 0 130 58.203 130 130s-58.203 130-130 130S20 221.797 20 150 78.203 20 150 20z" fill="#69e98e"/>
+    <path d="M100 80h100v60H100z" fill="#69e98e"/>
+    <path d="M150 160l-50 60h100z" fill="#69e98e"/>
+  </g>
+</svg>
